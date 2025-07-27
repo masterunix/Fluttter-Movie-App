@@ -1,0 +1,4 @@
+#Tue May 13 12:16:27 IST 2025
+base.0=/Users/vatsalgoyal/Desktop/Minor Project/Vatsal Final/dhurv /build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
