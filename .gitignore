@@ -5,9 +5,11 @@
 *.swp
 .DS_Store
 .atom/
+.build/
 .buildlog/
 .history
 .svn/
+.swiftpm/
 migrate_working_dir/
 
 # IntelliJ related
@@ -52,8 +54,10 @@ android/app/src/main/res/values/strings.xml # Example: if you have sensitive dat
 **/ios/Flutter/Flutter.podspec
 **/macos/Flutter/ephemeral/
 **/ios/Podfile.lock
+**/macos/Podfile.lock
 **/ios/.symlinks/
 **/ios/Pods/
+**/macos/Pods/
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
 
