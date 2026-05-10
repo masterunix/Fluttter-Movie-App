@@ -1,0 +1,74 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configurations and commonly used settings for
+# VS Code users. This folder should be tracked for repositories that use VS Code.
+# .vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will regenerate these files for you
+android/local.properties
+android/key.properties
+android/bundle
+android/app/src/main/res/values/strings.xml # Example: if you have sensitive data there
+*.keystore
+*.jks
+
+# iOS/macOS related
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/macos/Flutter/ephemeral/
+**/ios/Podfile.lock
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Coverage related
+coverage/
+
+# Windows related
+/windows/flutter/ephemeral/
+/windows/CMakeCache.txt
+/windows/CMakeFiles/
+/windows/CMakeSettings.json
+/windows/libfido2/
+/windows/out/
+/windows/x64/
+/windows/x86/
+
+# Linux related
+/linux/flutter/ephemeral/
